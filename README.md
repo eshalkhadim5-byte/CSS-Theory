@@ -9,7 +9,7 @@ Cascading Style Sheets (CSS) is a styling language used to design web pages ✨.
 
 CSS solves the problem of making websites attractive and organized. Without CSS, web pages only show simple HTML content without styling.
 
-**There are three ways to add CSS to an HTML document:**
+**There are three ways to add CSS to an HTML document:** 
 
 ### **1. Inline CSS**
 - Inline CSS is written inside the HTML tag using the style attribute.
